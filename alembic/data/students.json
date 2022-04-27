@@ -1,0 +1,16 @@
+[
+    {
+        "email": "georg@yc.com",
+        "role": 2,
+        "password": "testing123",
+        "created_at": "2021-10-03 01:00:00-06",
+        "updated_at": "2021-10-03 01:00:00-06"
+    },
+    {
+        "email": "stefan@squirfox.com",
+        "role": 2,
+        "password": "testing123",
+        "created_at": "2021-10-03 01:00:00-06",
+        "updated_at": "2021-10-03 01:00:00-06"
+    }
+]
